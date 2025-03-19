@@ -8,7 +8,7 @@ Bem-vindo ao meu portfólio! Sou um apaixonado por dados e tecnologia, com foco 
 
 ## Sobre Mim
 
-- **Idade:** 24 anos
+- **Idade:** 25 anos
 - **Cargo Atual:** Analista de Power BI na Secretaria de Desenvolvimento Econômico do Estado de Minas Gerais
 - **Formação Acadêmica:**  
   - Bacharelado em Sistemas de Informação  
@@ -23,18 +23,6 @@ Bem-vindo ao meu portfólio! Sou um apaixonado por dados e tecnologia, com foco 
 - **Big Data:** Trabalhar com grandes volumes de dados para identificar padrões e gerar insights.
 - **Machine Learning:** Desenvolver modelos preditivos para automatizar processos e resolver problemas complexos.
 - **Inteligência Artificial:** Explorar soluções inovadoras que utilizem IA para criar impacto positivo em diferentes áreas.
-
----
-
-## Ferramentas e Tecnologias
-
-- **Visualização de Dados:** Power BI, Tableau
-- **Linguagens de Programação:** Python, R, SQL, JavaScript
-- **Manipulação de Dados:** Pandas, NumPy
-- **Desenvolvimento Web:** Angular, Node.js
-- **Big Data:** Apache Spark, Hadoop
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Outras:** Git, Docker, APIs RESTful
 
 ---
 

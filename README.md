@@ -1,6 +1,6 @@
 
 
-# Portfólio de Lucas Augusto
+# Portfólio
 
 Bem-vindo ao meu portfólio! Sou um apaixonado por dados e tecnologia, com foco em análise de dados, big data, machine learning e inteligência artificial. Aqui você encontrará meus projetos, experiências e objetivos profissionais.
 
@@ -46,6 +46,14 @@ Estou em constante evolução e aprendizado, buscando sempre me aprofundar em:
 4. Conexão entre desenvolvimento web e ciência de dados.
 
 ---
+
+## Projetos
+
+[SECRETARIA DE DESENVOLVIMENTO ECONÔMICO](https://desenvolvimento.mg.gov.br/inicio/projetos/projeto/1140)
+**Descrição:** Desenvolvimento de dashboards e relatórios personalizados para a Secretaria de Desenvolvimento Econômico de Minas Gerais, com o objetivo de otimizar a visualização e análise de dados relacionados a projetos, investimentos e indicadores econômicos.
+**Tecnologias utilizadas:** Power BI, SQL, Power Automate.
+**Contribuição:** Responsável pela criação de visualizações interativas, modelagem de dados, extração web de alguns dados e implementação de medidas de desempenho.
+
 
 ## Contato
 

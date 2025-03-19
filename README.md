@@ -50,8 +50,11 @@ Estou em constante evolução e aprendizado, buscando sempre me aprofundar em:
 ## Projetos
 
 [SECRETARIA DE DESENVOLVIMENTO ECONÔMICO](https://desenvolvimento.mg.gov.br/inicio/projetos/projeto/1140)
+
 **Descrição:** Desenvolvimento de dashboards e relatórios personalizados para a Secretaria de Desenvolvimento Econômico de Minas Gerais, com o objetivo de otimizar a visualização e análise de dados relacionados a projetos, investimentos e indicadores econômicos.
+
 **Tecnologias utilizadas:** Power BI, SQL, Power Automate.
+
 **Contribuição:** Responsável pela criação de visualizações interativas, modelagem de dados, extração web de alguns dados e implementação de medidas de desempenho.
 
 
